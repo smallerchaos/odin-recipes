@@ -7,4 +7,4 @@ Something else that was interesting was the rel="noreferrer" attribute for links
 
 Brushing up on terminal has also been pretty great though I do find myself wanting VIM-like capabilities in the comfort of VSCode. I'm not sure if it would be better to do something to VIM to allow autocomplete or do something to VSCode to allow VIM-like capabilities.
 
-Website can be accessed from: https://sleepyquagga.github.io/odin-recipes
+Finished website can be accessed from: https://sleepyquagga.github.io/odin-recipes
