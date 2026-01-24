@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightseagreen;
+}
+
+.recipe-card, .recipe-language, .page-title {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.page-title {
+    font-family: "Brush Script MT", sans-serif;
+    color: cornsilk;
+    font-size: 64px;
+    filter:drop-shadow(2px 2px #00000030);
+}
+
+.recipe-card {
+    list-style: none;
+    width: 70%;
+    margin: 40px auto;
+    background-color: cornsilk;
+    padding: 50px 30px;
+    border-radius: 5px;
+    filter: drop-shadow(5px 5px #00000030);
+    border: solid 3px blanchedalmond;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    color: #CCAF8080;
+}
+
+.recipe-card a {
+    color: #CCAF80;
+}
+
+.recipe-card a:hover {
+    color: #B37C24;
+}
