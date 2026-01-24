@@ -30,16 +30,32 @@ h1, h2 {
 
 .recipe-card {
     list-style: none;
+    color: #CCAF8080;
+}
+
+.ingredients, .instructions, .other-information, .recipe-card {
     width: 70%;
     margin: 40px auto;
     background-color: cornsilk;
-    padding: 50px 30px;
+    padding:30px 50px;
+    color: #CCAF80;
     border-radius: 5px;
     filter: drop-shadow(5px 5px #00000030);
     border: solid 3px blanchedalmond;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 18px;
-    color: #CCAF8080;
+}
+
+.ingredients h2{
+    color: #CCAF80;
+}
+
+.instructions h2 {
+    color: #CCAF80;
+}
+
+.other-information h2 {
+    color: #CCAF80;
 }
 
 .recipe-card a {
