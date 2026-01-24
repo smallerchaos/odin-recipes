@@ -7,18 +7,25 @@ body {
     background-color: lightseagreen;
 }
 
-.recipe-card, .recipe-language, .page-title {
+.recipe-card, .recipe-language, .page-title, .page-subtitle {
     display: block;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
 }
 
+h1, h2 {
+    color: cornsilk;
+}
+
 .page-title {
     font-family: "Brush Script MT", sans-serif;
-    color: cornsilk;
     font-size: 64px;
     filter:drop-shadow(2px 2px #00000030);
+}
+
+.page-subtitle {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .recipe-card {
